@@ -1,2 +1,2 @@
 # Cursoemvideo
- Curso em Vídeo Guanabara
+ Curso em Vídeo Guanabara a terminar
