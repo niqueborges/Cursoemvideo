@@ -1,3 +1,4 @@
+// Comando de Entrada e Operadores (Aula 3)
 algoritmo "valores"
 var
   N1, N2: Inteiro
