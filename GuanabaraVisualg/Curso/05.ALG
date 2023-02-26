@@ -1,4 +1,6 @@
-algoritmo "semnome"
+// Comando de Entrada e Operadores (Aula 3)
+
+algoritmo "Operadores"
 var
    A: Inteiro
    B, C, D, F, G: Real

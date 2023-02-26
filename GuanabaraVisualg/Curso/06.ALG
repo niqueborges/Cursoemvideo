@@ -1,3 +1,5 @@
+// Comando de Entrada e Operadores (Aula 3)
+
 algoritmo "conversor"
 var
    angulo, S: Real

@@ -1,4 +1,5 @@
 // Comando de Entrada e Operadores (Aula 3)
+
 algoritmo "MeuNome"
 var
   Nome: Caractere

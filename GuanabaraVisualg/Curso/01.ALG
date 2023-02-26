@@ -1,4 +1,5 @@
 // Primeiro algoritmo (Aula 2)
+
 algoritmo "primeiro"
 var
   msg:  caractere
