@@ -1,4 +1,4 @@
-// Operadores Logicos e Relacionais
+// Operadores Logicos e Relacionais (Aula 4)
 
 Algoritmo "Operadores Relacionais"
 Var
@@ -17,5 +17,8 @@ Inicio
       Escreval (C<=B^A)
       Escreval (B<=C%2)
       Escreval (1=C%2)
+      Escreval (verdadeiro e falso)
+      Escreval ((A=B) ou (C>A))
+      Escreval (nao((A=B) ou (C>A)))
       
 Fimalgoritmo

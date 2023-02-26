@@ -1,4 +1,4 @@
-// Operadores Logicos e Relacionais
+// Operadores Logicos e Relacionais (Aula 4)
 
 Algoritmo "Operadores Logicos"
 # Primeiros Triangulos
