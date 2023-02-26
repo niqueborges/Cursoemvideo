@@ -1,7 +1,7 @@
 // Operadores Logicos e Relacionais
 
 Algoritmo "Operadores Logicos"
-# primeiro Triangulos
+# Primeiros Triangulos
 Var
    L1, L2, L3: Real
    EQ, ES, TRI: Logico
