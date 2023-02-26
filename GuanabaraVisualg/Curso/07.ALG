@@ -1,3 +1,5 @@
+// Operadores Logicos e Relacionais
+
 Algoritmo "Operadores Relacionais"
 Var
    A, B, C: Inteiro

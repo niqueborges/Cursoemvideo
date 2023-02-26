@@ -1,5 +1,7 @@
-Algoritmo "Operadores Lógicos"
-# primeiro Triângulos
+// Operadores Logicos e Relacionais
+
+Algoritmo "Operadores Logicos"
+# primeiro Triangulos
 Var
    L1, L2, L3: Real
    EQ, ES, TRI: Logico
@@ -15,6 +17,6 @@ Inicio
       ES <- (L1 <> L2) e (L2<>L3) e (L1 <> L3)
       Escreval ("Pode formar um TRIANGULO? ", TRI)
       Escreval ("O trianguo e EQUILATERO? ", EQ)
-      Escreval ("O triângulo e ESCALENO? ", ES)
+      Escreval ("O triangulo e ESCALENO? ", ES)
 
 Fimalgoritmo
