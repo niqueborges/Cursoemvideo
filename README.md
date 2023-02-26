@@ -4,5 +4,7 @@
 Ordem de precedência
 
 Aritméticos: (), ^, */, +-
+
 Relacionais: Todos
+
 Lógicos: E, OU, NÃO
